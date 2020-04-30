@@ -1,0 +1,665 @@
+Fecha;Departamento;Casa;Fallecido;Hospital;Hospital UCI;Recuperado
+17-abr;Amazonas;1;0;0;0;0
+18-abr;Amazonas;3;0;0;0;0
+21-abr;Amazonas;1;0;1;0;0
+23-abr;Amazonas;4;1;1;0;0
+24-abr;Amazonas;2;0;0;0;0
+25-abr;Amazonas;19;1;3;0;0
+26-abr;Amazonas;2;0;1;0;0
+28-abr;Amazonas;29;0;8;0;0
+29-abr;Amazonas;23;0;4;0;0
+09-mar;Antioquia;0;0;0;0;1
+11-mar;Antioquia;0;0;0;0;3
+14-mar;Antioquia;0;0;0;0;3
+15-mar;Antioquia;0;0;0;0;1
+19-mar;Antioquia;0;0;0;0;3
+20-mar;Antioquia;1;0;0;0;10
+21-mar;Antioquia;0;0;0;0;3
+22-mar;Antioquia;1;0;0;0;4
+23-mar;Antioquia;1;0;0;2;19
+25-mar;Antioquia;1;0;0;0;7
+28-mar;Antioquia;2;0;0;0;5
+29-mar;Antioquia;2;1;1;0;15
+30-mar;Antioquia;3;0;0;0;7
+31-mar;Antioquia;1;0;0;2;2
+01-abr;Antioquia;1;0;0;0;5
+02-abr;Antioquia;2;0;0;0;18
+03-abr;Antioquia;7;0;0;0;11
+04-abr;Antioquia;2;0;0;0;3
+05-abr;Antioquia;11;0;0;1;10
+06-abr;Antioquia;4;1;0;1;5
+07-abr;Antioquia;10;0;0;0;5
+08-abr;Antioquia;29;0;0;1;7
+09-abr;Antioquia;3;0;0;0;1
+10-abr;Antioquia;4;0;1;0;2
+11-abr;Antioquia;4;0;0;1;1
+12-abr;Antioquia;4;0;0;0;4
+13-abr;Antioquia;11;0;0;0;2
+14-abr;Antioquia;10;0;1;1;5
+15-abr;Antioquia;10;0;0;0;2
+16-abr;Antioquia;5;1;0;0;1
+17-abr;Antioquia;13;0;2;0;1
+18-abr;Antioquia;9;0;0;0;0
+19-abr;Antioquia;15;2;1;0;0
+20-abr;Antioquia;11;0;0;0;0
+21-abr;Antioquia;2;0;1;0;0
+22-abr;Antioquia;26;0;1;0;0
+23-abr;Antioquia;29;0;1;0;0
+24-abr;Antioquia;20;0;0;1;0
+25-abr;Antioquia;5;0;0;0;0
+26-abr;Antioquia;3;0;0;0;0
+27-abr;Antioquia;8;0;0;0;0
+28-abr;Antioquia;3;0;0;0;0
+29-abr;Antioquia;5;0;0;0;0
+22-mar;Archipiélago de San Andrés Providencia y Santa Catalina;0;0;0;0;1
+01-abr;Archipiélago de San Andrés Providencia y Santa Catalina;0;0;0;0;1
+09-abr;Archipiélago de San Andrés Providencia y Santa Catalina;1;0;0;0;1
+11-abr;Archipiélago de San Andrés Providencia y Santa Catalina;1;0;0;0;0
+17-abr;Archipiélago de San Andrés Providencia y Santa Catalina;1;0;0;0;0
+25-mar;Atlántico;0;0;0;0;1
+27-mar;Atlántico;0;1;0;0;1
+28-mar;Atlántico;0;0;0;0;1
+03-abr;Atlántico;0;0;0;0;3
+05-abr;Atlántico;0;1;0;0;1
+07-abr;Atlántico;1;0;0;0;4
+08-abr;Atlántico;0;0;0;0;4
+10-abr;Atlántico;1;0;0;0;0
+11-abr;Atlántico;1;0;0;0;0
+12-abr;Atlántico;1;0;0;0;2
+13-abr;Atlántico;2;0;0;0;0
+15-abr;Atlántico;1;0;0;0;0
+16-abr;Atlántico;1;0;0;0;0
+17-abr;Atlántico;1;0;0;0;0
+18-abr;Atlántico;3;0;0;0;0
+20-abr;Atlántico;2;0;0;0;0
+23-abr;Atlántico;5;0;0;0;0
+24-abr;Atlántico;2;0;0;2;0
+25-abr;Atlántico;15;0;0;0;0
+26-abr;Atlántico;6;1;0;1;0
+27-abr;Atlántico;19;0;4;0;0
+28-abr;Atlántico;6;1;1;1;0
+29-abr;Atlántico;15;0;0;0;0
+16-mar;Barranquilla D.E.;0;0;0;0;2
+19-mar;Barranquilla D.E.;0;0;0;0;3
+21-mar;Barranquilla D.E.;0;0;0;0;2
+24-mar;Barranquilla D.E.;0;0;0;0;2
+25-mar;Barranquilla D.E.;0;0;0;0;3
+27-mar;Barranquilla D.E.;0;1;0;0;0
+28-mar;Barranquilla D.E.;0;0;0;0;3
+29-mar;Barranquilla D.E.;0;0;0;1;3
+30-mar;Barranquilla D.E.;0;0;0;0;1
+31-mar;Barranquilla D.E.;1;1;0;0;6
+01-abr;Barranquilla D.E.;2;0;0;0;0
+03-abr;Barranquilla D.E.;2;0;0;0;7
+05-abr;Barranquilla D.E.;2;0;0;0;0
+06-abr;Barranquilla D.E.;1;0;0;0;0
+07-abr;Barranquilla D.E.;3;0;0;0;0
+08-abr;Barranquilla D.E.;2;0;0;0;1
+09-abr;Barranquilla D.E.;3;0;0;0;3
+10-abr;Barranquilla D.E.;5;0;0;0;0
+11-abr;Barranquilla D.E.;2;0;0;2;0
+12-abr;Barranquilla D.E.;1;1;0;0;0
+13-abr;Barranquilla D.E.;1;0;0;0;0
+14-abr;Barranquilla D.E.;1;0;0;0;1
+16-abr;Barranquilla D.E.;1;0;0;0;0
+17-abr;Barranquilla D.E.;2;0;0;0;0
+18-abr;Barranquilla D.E.;1;0;2;0;0
+19-abr;Barranquilla D.E.;2;0;0;0;0
+20-abr;Barranquilla D.E.;1;0;0;0;0
+21-abr;Barranquilla D.E.;2;2;0;0;0
+22-abr;Barranquilla D.E.;3;0;0;0;0
+23-abr;Barranquilla D.E.;0;1;1;0;0
+24-abr;Barranquilla D.E.;5;0;0;0;0
+25-abr;Barranquilla D.E.;7;0;0;0;0
+26-abr;Barranquilla D.E.;12;0;0;0;0
+27-abr;Barranquilla D.E.;19;0;0;0;0
+28-abr;Barranquilla D.E.;9;0;0;0;0
+29-abr;Barranquilla D.E.;0;0;2;0;0
+06-mar;Bogotá D.C.;0;0;0;0;1
+11-mar;Bogotá D.C.;0;0;0;0;2
+12-mar;Bogotá D.C.;0;0;0;0;2
+13-mar;Bogotá D.C.;0;0;0;0;1
+14-mar;Bogotá D.C.;0;0;0;0;10
+15-mar;Bogotá D.C.;1;0;0;0;9
+16-mar;Bogotá D.C.;0;0;0;0;6
+17-mar;Bogotá D.C.;1;0;0;0;6
+18-mar;Bogotá D.C.;0;0;0;0;5
+19-mar;Bogotá D.C.;3;0;0;0;5
+20-mar;Bogotá D.C.;1;2;0;0;24
+21-mar;Bogotá D.C.;0;0;0;0;5
+22-mar;Bogotá D.C.;0;1;0;0;3
+23-mar;Bogotá D.C.;1;2;0;0;26
+24-mar;Bogotá D.C.;1;1;0;0;39
+25-mar;Bogotá D.C.;3;0;0;0;11
+26-mar;Bogotá D.C.;0;1;0;0;6
+27-mar;Bogotá D.C.;11;2;1;0;24
+28-mar;Bogotá D.C.;13;3;1;0;21
+29-mar;Bogotá D.C.;16;0;1;1;15
+30-mar;Bogotá D.C.;18;3;0;0;34
+31-mar;Bogotá D.C.;18;3;0;0;19
+01-abr;Bogotá D.C.;38;10;0;0;33
+02-abr;Bogotá D.C.;33;4;2;1;28
+03-abr;Bogotá D.C.;21;4;1;2;16
+04-abr;Bogotá D.C.;59;8;3;2;32
+05-abr;Bogotá D.C.;17;5;1;0;8
+06-abr;Bogotá D.C.;33;3;1;0;15
+07-abr;Bogotá D.C.;49;3;1;2;29
+08-abr;Bogotá D.C.;79;7;1;3;41
+09-abr;Bogotá D.C.;25;3;0;1;7
+10-abr;Bogotá D.C.;68;2;1;2;15
+11-abr;Bogotá D.C.;23;2;5;1;12
+12-abr;Bogotá D.C.;12;2;2;1;2
+13-abr;Bogotá D.C.;21;1;1;0;1
+14-abr;Bogotá D.C.;30;3;1;1;1
+15-abr;Bogotá D.C.;24;6;7;7;4
+16-abr;Bogotá D.C.;39;1;1;1;1
+17-abr;Bogotá D.C.;54;0;4;1;2
+18-abr;Bogotá D.C.;79;1;2;1;1
+19-abr;Bogotá D.C.;111;0;4;1;2
+20-abr;Bogotá D.C.;71;1;8;2;0
+21-abr;Bogotá D.C.;71;0;4;1;0
+22-abr;Bogotá D.C.;78;0;5;0;0
+23-abr;Bogotá D.C.;44;5;2;0;0
+24-abr;Bogotá D.C.;150;2;31;2;0
+25-abr;Bogotá D.C.;75;2;11;1;0
+26-abr;Bogotá D.C.;86;1;4;0;0
+27-abr;Bogotá D.C.;99;2;7;0;0
+28-abr;Bogotá D.C.;57;1;7;0;0
+29-abr;Bogotá D.C.;108;0;25;2;0
+28-mar;Bolívar;0;0;0;0;1
+29-mar;Bolívar;2;0;0;0;0
+08-abr;Bolívar;2;0;0;0;1
+09-abr;Bolívar;2;1;0;0;0
+13-abr;Bolívar;1;0;0;0;0
+14-abr;Bolívar;0;0;0;1;0
+17-abr;Bolívar;0;1;0;0;0
+20-abr;Bolívar;1;0;0;0;1
+21-abr;Bolívar;0;1;0;0;0
+23-abr;Bolívar;1;0;0;0;0
+24-abr;Bolívar;5;0;0;0;0
+27-abr;Bolívar;1;0;0;0;0
+25-mar;Boyacá;0;0;0;0;1
+26-mar;Boyacá;0;0;0;0;1
+29-mar;Boyacá;0;0;0;0;1
+30-mar;Boyacá;0;0;0;0;1
+31-mar;Boyacá;1;1;0;0;0
+04-abr;Boyacá;3;0;0;0;4
+08-abr;Boyacá;3;0;0;0;3
+09-abr;Boyacá;5;0;0;0;0
+10-abr;Boyacá;2;0;0;0;1
+11-abr;Boyacá;4;0;0;0;0
+16-abr;Boyacá;1;0;0;0;0
+20-abr;Boyacá;1;0;0;0;0
+26-abr;Boyacá;2;0;0;0;0
+28-abr;Boyacá;0;0;2;0;0
+05-abr;Buenaventura D.E.;1;0;0;0;0
+06-abr;Buenaventura D.E.;0;0;0;0;1
+08-abr;Buenaventura D.E.;0;0;0;1;0
+09-abr;Buenaventura D.E.;1;0;0;0;0
+11-abr;Buenaventura D.E.;2;0;0;0;0
+12-abr;Buenaventura D.E.;1;0;0;0;0
+14-abr;Buenaventura D.E.;2;0;0;0;0
+15-abr;Buenaventura D.E.;1;0;0;0;0
+16-abr;Buenaventura D.E.;1;1;0;0;0
+17-abr;Buenaventura D.E.;1;0;0;0;1
+18-abr;Buenaventura D.E.;2;0;0;1;0
+20-abr;Buenaventura D.E.;1;0;0;0;0
+21-abr;Buenaventura D.E.;2;0;0;0;0
+24-abr;Buenaventura D.E.;2;0;0;0;0
+26-abr;Buenaventura D.E.;2;0;0;0;0
+28-abr;Buenaventura D.E.;1;0;0;0;0
+29-abr;Buenaventura D.E.;1;0;1;0;0
+13-mar;Caldas;0;0;0;0;1
+19-mar;Caldas;0;0;0;0;1
+21-mar;Caldas;0;0;0;0;1
+22-mar;Caldas;0;0;0;0;3
+23-mar;Caldas;0;0;0;0;1
+24-mar;Caldas;0;0;0;0;2
+25-mar;Caldas;0;0;0;0;2
+27-mar;Caldas;0;0;0;0;1
+28-mar;Caldas;0;0;0;0;1
+29-mar;Caldas;0;0;0;0;1
+30-mar;Caldas;1;0;0;0;0
+02-abr;Caldas;0;0;0;0;1
+08-abr;Caldas;2;1;0;0;0
+09-abr;Caldas;5;0;0;0;0
+10-abr;Caldas;1;0;0;0;0
+11-abr;Caldas;5;1;0;0;2
+12-abr;Caldas;0;0;0;0;1
+13-abr;Caldas;2;0;0;0;0
+15-abr;Caldas;6;0;0;0;0
+16-abr;Caldas;2;0;0;0;0
+17-abr;Caldas;3;0;0;0;0
+20-abr;Caldas;2;0;0;0;0
+24-abr;Caldas;3;0;0;0;0
+26-abr;Caldas;1;0;0;0;0
+28-abr;Caldas;3;0;0;0;0
+29-abr;Caldas;1;0;2;0;0
+18-abr;Caquetá;0;1;0;0;0
+19-abr;Caquetá;1;0;0;0;0
+28-abr;Caquetá;5;0;0;0;0
+29-abr;Caquetá;1;0;0;0;0
+11-mar;Cartagena D.T. y C.;0;0;0;0;1
+15-mar;Cartagena D.T. y C.;0;0;0;0;2
+16-mar;Cartagena D.T. y C.;0;1;0;0;1
+17-mar;Cartagena D.T. y C.;0;0;0;0;1
+18-mar;Cartagena D.T. y C.;0;0;0;0;3
+19-mar;Cartagena D.T. y C.;0;0;0;0;1
+20-mar;Cartagena D.T. y C.;0;0;0;0;1
+21-mar;Cartagena D.T. y C.;0;0;0;0;4
+23-mar;Cartagena D.T. y C.;0;0;0;0;1
+24-mar;Cartagena D.T. y C.;0;0;0;0;5
+25-mar;Cartagena D.T. y C.;0;0;0;0;5
+28-mar;Cartagena D.T. y C.;0;0;0;0;1
+29-mar;Cartagena D.T. y C.;4;1;0;0;2
+30-mar;Cartagena D.T. y C.;0;1;0;1;1
+31-mar;Cartagena D.T. y C.;0;0;0;0;2
+03-abr;Cartagena D.T. y C.;0;0;0;0;3
+06-abr;Cartagena D.T. y C.;1;1;0;1;8
+07-abr;Cartagena D.T. y C.;0;2;0;0;1
+08-abr;Cartagena D.T. y C.;2;0;0;1;6
+09-abr;Cartagena D.T. y C.;5;4;1;0;4
+10-abr;Cartagena D.T. y C.;16;1;0;0;4
+11-abr;Cartagena D.T. y C.;2;1;1;0;4
+12-abr;Cartagena D.T. y C.;0;0;0;0;6
+13-abr;Cartagena D.T. y C.;6;0;2;1;1
+14-abr;Cartagena D.T. y C.;4;2;1;2;1
+15-abr;Cartagena D.T. y C.;9;2;0;0;3
+16-abr;Cartagena D.T. y C.;4;1;3;0;0
+17-abr;Cartagena D.T. y C.;4;0;1;0;0
+18-abr;Cartagena D.T. y C.;8;0;1;0;1
+19-abr;Cartagena D.T. y C.;1;0;0;0;0
+20-abr;Cartagena D.T. y C.;9;0;0;0;0
+21-abr;Cartagena D.T. y C.;1;2;0;0;0
+23-abr;Cartagena D.T. y C.;3;0;1;0;0
+24-abr;Cartagena D.T. y C.;8;1;2;0;0
+25-abr;Cartagena D.T. y C.;3;0;3;0;0
+26-abr;Cartagena D.T. y C.;12;1;1;0;0
+27-abr;Cartagena D.T. y C.;3;0;0;0;0
+28-abr;Cartagena D.T. y C.;12;0;2;2;0
+29-abr;Cartagena D.T. y C.;6;0;2;0;0
+22-mar;Casanare;0;0;0;0;1
+01-abr;Casanare;0;0;0;0;1
+09-abr;Casanare;0;0;0;0;1
+10-abr;Casanare;1;0;0;0;1
+11-abr;Casanare;0;0;0;0;2
+14-abr;Casanare;2;0;0;0;0
+19-abr;Casanare;1;0;0;0;0
+28-abr;Casanare;5;0;1;0;0
+29-abr;Casanare;1;0;1;0;0
+19-mar;Cauca;0;0;0;0;2
+24-mar;Cauca;0;0;0;0;1
+25-mar;Cauca;1;0;0;0;5
+01-abr;Cauca;0;1;1;0;1
+06-abr;Cauca;0;1;0;0;0
+07-abr;Cauca;0;0;1;0;0
+08-abr;Cauca;0;0;0;0;1
+09-abr;Cauca;0;0;1;0;0
+10-abr;Cauca;2;0;0;0;1
+11-abr;Cauca;0;1;0;0;0
+14-abr;Cauca;1;0;0;0;0
+16-abr;Cauca;1;0;0;0;1
+17-abr;Cauca;0;0;1;0;0
+23-abr;Cauca;1;0;0;0;0
+25-abr;Cauca;0;1;0;0;0
+26-abr;Cauca;0;0;1;0;0
+27-abr;Cauca;4;0;0;0;0
+28-abr;Cauca;3;0;0;0;0
+29-abr;Cauca;1;0;0;0;0
+22-mar;Cesar;0;0;0;0;1
+24-mar;Cesar;0;0;0;0;1
+28-mar;Cesar;0;0;0;0;1
+29-mar;Cesar;0;0;0;0;1
+31-mar;Cesar;0;0;0;0;7
+01-abr;Cesar;0;1;0;0;4
+08-abr;Cesar;0;0;0;0;1
+09-abr;Cesar;0;0;0;0;1
+10-abr;Cesar;0;0;0;0;2
+11-abr;Cesar;2;0;0;0;10
+16-abr;Cesar;0;1;0;0;0
+20-abr;Cesar;1;1;0;0;0
+24-abr;Cesar;4;0;3;0;0
+25-abr;Cesar;3;3;3;2;0
+28-abr;Cesar;1;0;1;0;0
+11-abr;Chocó;1;0;0;0;0
+17-abr;Chocó;4;0;0;0;1
+18-abr;Chocó;1;0;0;0;1
+21-abr;Chocó;0;1;0;0;0
+23-abr;Chocó;0;0;1;0;0
+26-abr;Chocó;1;0;0;0;0
+28-abr;Chocó;1;0;0;0;0
+29-abr;Chocó;1;0;0;0;0
+28-mar;Córdoba;0;0;0;0;1
+29-mar;Córdoba;0;0;0;0;1
+04-abr;Córdoba;0;1;0;0;0
+08-abr;Córdoba;1;1;0;0;2
+11-abr;Córdoba;4;0;0;0;2
+14-abr;Córdoba;2;0;0;0;0
+16-abr;Córdoba;2;0;0;0;0
+18-abr;Córdoba;1;0;0;0;0
+19-abr;Córdoba;2;0;0;0;0
+22-abr;Córdoba;0;1;0;0;0
+24-abr;Córdoba;1;0;0;0;0
+25-abr;Córdoba;1;0;0;0;0
+28-abr;Córdoba;3;0;0;0;0
+15-mar;Cundinamarca;0;0;0;0;1
+16-mar;Cundinamarca;0;0;0;0;1
+17-mar;Cundinamarca;0;0;0;0;2
+19-mar;Cundinamarca;0;0;0;0;1
+20-mar;Cundinamarca;0;0;0;0;5
+21-mar;Cundinamarca;0;0;0;0;2
+23-mar;Cundinamarca;1;0;0;0;4
+24-mar;Cundinamarca;0;0;0;0;7
+25-mar;Cundinamarca;2;0;0;0;1
+27-mar;Cundinamarca;0;0;0;0;1
+28-mar;Cundinamarca;0;1;0;0;1
+30-mar;Cundinamarca;2;1;0;0;2
+31-mar;Cundinamarca;1;1;0;0;7
+01-abr;Cundinamarca;1;0;0;0;5
+02-abr;Cundinamarca;1;0;0;0;1
+03-abr;Cundinamarca;0;0;0;0;3
+04-abr;Cundinamarca;4;0;0;1;2
+05-abr;Cundinamarca;0;1;0;0;3
+06-abr;Cundinamarca;1;0;0;0;2
+07-abr;Cundinamarca;1;0;0;0;4
+08-abr;Cundinamarca;2;0;0;0;2
+09-abr;Cundinamarca;6;0;0;0;3
+10-abr;Cundinamarca;7;2;0;0;6
+11-abr;Cundinamarca;9;2;2;0;9
+12-abr;Cundinamarca;2;0;0;0;5
+13-abr;Cundinamarca;1;0;0;0;2
+14-abr;Cundinamarca;2;0;2;0;1
+15-abr;Cundinamarca;2;1;3;0;2
+16-abr;Cundinamarca;1;0;0;0;0
+17-abr;Cundinamarca;10;1;1;0;0
+18-abr;Cundinamarca;5;0;3;0;0
+19-abr;Cundinamarca;5;1;0;0;0
+20-abr;Cundinamarca;5;1;0;0;0
+21-abr;Cundinamarca;8;0;1;0;0
+22-abr;Cundinamarca;3;0;0;0;0
+23-abr;Cundinamarca;3;0;0;0;0
+24-abr;Cundinamarca;2;0;0;0;0
+25-abr;Cundinamarca;7;0;0;0;0
+26-abr;Cundinamarca;7;1;0;0;0
+27-abr;Cundinamarca;3;0;0;0;0
+29-abr;Cundinamarca;4;0;0;0;0
+12-mar;Huila;0;0;0;0;3
+14-mar;Huila;0;0;0;0;4
+17-mar;Huila;0;0;0;0;1
+19-mar;Huila;0;0;0;0;1
+21-mar;Huila;0;0;0;0;1
+23-mar;Huila;0;1;0;0;0
+24-mar;Huila;0;0;0;0;3
+29-mar;Huila;0;0;0;0;2
+30-mar;Huila;0;1;0;0;4
+31-mar;Huila;0;0;0;0;3
+01-abr;Huila;1;0;0;1;4
+03-abr;Huila;1;0;0;0;1
+04-abr;Huila;2;0;0;0;0
+08-abr;Huila;2;0;0;0;2
+09-abr;Huila;0;0;0;0;1
+10-abr;Huila;2;0;0;0;0
+11-abr;Huila;5;2;2;0;2
+13-abr;Huila;3;0;0;0;0
+16-abr;Huila;4;0;0;0;1
+17-abr;Huila;2;0;0;0;0
+18-abr;Huila;12;2;1;1;0
+20-abr;Huila;1;0;0;0;0
+21-abr;Huila;2;0;0;0;0
+24-abr;Huila;0;0;1;0;0
+25-abr;Huila;2;0;0;0;0
+26-abr;Huila;3;0;0;0;0
+27-abr;Huila;4;0;1;0;0
+28-abr;Huila;9;0;0;0;0
+29-abr;Huila;2;0;1;0;0
+31-mar;La Guajira;0;0;0;0;1
+18-abr;La Guajira;0;1;0;0;0
+25-abr;La Guajira;3;0;0;0;0
+30-mar;Magdalena;0;0;0;0;1
+10-abr;Magdalena;2;0;0;0;1
+11-abr;Magdalena;2;0;0;0;0
+12-abr;Magdalena;0;1;0;0;0
+16-abr;Magdalena;9;0;0;0;0
+17-abr;Magdalena;0;1;0;0;0
+20-abr;Magdalena;2;0;0;0;0
+21-abr;Magdalena;2;0;0;0;0
+22-abr;Magdalena;1;0;1;0;0
+23-abr;Magdalena;3;0;0;0;0
+25-abr;Magdalena;1;1;0;0;0
+28-abr;Magdalena;0;1;0;0;0
+29-abr;Magdalena;4;0;0;0;0
+13-mar;Meta;0;0;0;0;1
+23-mar;Meta;0;0;0;0;4
+24-mar;Meta;1;0;0;0;1
+25-mar;Meta;0;0;0;0;1
+31-mar;Meta;1;0;0;0;2
+01-abr;Meta;1;0;0;0;0
+03-abr;Meta;0;1;0;0;0
+05-abr;Meta;0;0;0;0;1
+09-abr;Meta;1;0;0;0;0
+10-abr;Meta;1;1;0;0;0
+11-abr;Meta;1;2;0;0;2
+13-abr;Meta;2;0;0;0;0
+14-abr;Meta;8;0;0;0;7
+16-abr;Meta;4;0;0;0;1
+17-abr;Meta;2;0;0;0;0
+18-abr;Meta;1;0;0;0;0
+19-abr;Meta;6;0;0;0;0
+20-abr;Meta;4;0;0;0;0
+21-abr;Meta;3;0;0;0;0
+22-abr;Meta;38;0;2;0;0
+23-abr;Meta;35;0;0;1;0
+24-abr;Meta;26;0;0;0;0
+25-abr;Meta;23;0;1;0;0
+26-abr;Meta;45;0;1;0;0
+27-abr;Meta;15;0;1;0;0
+28-abr;Meta;107;0;0;0;0
+29-abr;Meta;7;0;0;1;0
+24-mar;Nariño;0;1;0;0;0
+28-mar;Nariño;0;0;0;0;1
+31-mar;Nariño;1;0;0;0;1
+01-abr;Nariño;1;0;0;0;1
+08-abr;Nariño;0;1;0;0;2
+09-abr;Nariño;9;1;0;1;8
+10-abr;Nariño;1;1;0;0;1
+11-abr;Nariño;3;0;0;2;2
+14-abr;Nariño;3;0;0;0;0
+15-abr;Nariño;0;0;0;0;1
+16-abr;Nariño;1;1;0;0;0
+17-abr;Nariño;1;1;0;0;0
+18-abr;Nariño;1;0;0;0;0
+20-abr;Nariño;3;1;1;0;0
+21-abr;Nariño;10;0;0;0;0
+24-abr;Nariño;16;1;0;0;0
+25-abr;Nariño;13;0;0;0;0
+26-abr;Nariño;0;0;1;0;0
+27-abr;Nariño;3;0;0;0;0
+28-abr;Nariño;15;0;2;0;0
+29-abr;Nariño;4;0;1;0;0
+15-mar;Norte de Santander;0;0;0;0;1
+17-mar;Norte de Santander;0;0;0;0;2
+19-mar;Norte de Santander;0;0;0;0;3
+21-mar;Norte de Santander;0;0;0;0;2
+24-mar;Norte de Santander;0;0;0;0;3
+25-mar;Norte de Santander;0;0;0;0;4
+30-mar;Norte de Santander;0;0;0;0;1
+31-mar;Norte de Santander;2;0;0;0;1
+02-abr;Norte de Santander;1;0;0;0;1
+03-abr;Norte de Santander;0;1;0;1;2
+08-abr;Norte de Santander;1;0;0;0;1
+09-abr;Norte de Santander;5;2;1;0;3
+10-abr;Norte de Santander;2;0;0;0;0
+11-abr;Norte de Santander;0;1;0;0;0
+12-abr;Norte de Santander;0;0;0;0;2
+14-abr;Norte de Santander;7;0;0;0;0
+15-abr;Norte de Santander;7;0;0;0;0
+18-abr;Norte de Santander;1;1;0;0;0
+22-abr;Norte de Santander;1;0;0;0;0
+26-abr;Norte de Santander;1;0;0;0;0
+27-abr;Norte de Santander;1;0;0;0;0
+28-abr;Norte de Santander;6;0;1;0;0
+17-mar;Quindio;0;0;0;0;2
+19-mar;Quindio;0;0;0;0;1
+22-mar;Quindio;0;0;0;0;3
+23-mar;Quindio;0;0;0;0;1
+24-mar;Quindio;1;0;0;0;0
+25-mar;Quindio;0;0;0;0;4
+27-mar;Quindio;1;0;0;0;2
+28-mar;Quindio;0;0;0;0;1
+01-abr;Quindio;2;0;0;0;5
+08-abr;Quindio;14;1;0;0;2
+09-abr;Quindio;1;0;0;0;0
+10-abr;Quindio;1;0;0;0;2
+11-abr;Quindio;2;1;0;0;0
+13-abr;Quindio;2;0;0;0;0
+17-abr;Quindio;2;0;0;0;0
+18-abr;Quindio;2;0;0;0;0
+20-abr;Quindio;2;0;0;0;0
+26-abr;Quindio;0;0;0;1;0
+27-abr;Quindio;2;1;0;0;0
+28-abr;Quindio;1;0;0;0;0
+14-mar;Risaralda;0;0;0;0;1
+17-mar;Risaralda;0;0;0;0;1
+18-mar;Risaralda;1;0;0;0;2
+20-mar;Risaralda;0;0;0;0;1
+21-mar;Risaralda;0;0;0;0;1
+22-mar;Risaralda;0;0;0;0;5
+23-mar;Risaralda;0;0;0;0;1
+24-mar;Risaralda;0;1;0;0;2
+25-mar;Risaralda;0;0;0;0;2
+29-mar;Risaralda;4;0;0;0;6
+31-mar;Risaralda;2;0;0;0;4
+03-abr;Risaralda;0;0;0;0;2
+08-abr;Risaralda;2;1;0;1;6
+09-abr;Risaralda;2;0;0;0;1
+10-abr;Risaralda;2;1;0;0;0
+11-abr;Risaralda;2;0;0;0;4
+12-abr;Risaralda;1;0;0;0;2
+13-abr;Risaralda;1;0;0;0;0
+14-abr;Risaralda;8;0;0;0;0
+15-abr;Risaralda;3;0;0;0;0
+17-abr;Risaralda;35;2;1;1;1
+18-abr;Risaralda;10;1;0;0;1
+19-abr;Risaralda;6;0;0;0;0
+21-abr;Risaralda;5;0;0;0;0
+22-abr;Risaralda;6;0;0;0;0
+23-abr;Risaralda;4;0;0;0;0
+24-abr;Risaralda;2;0;0;0;0
+25-abr;Risaralda;32;0;0;0;0
+26-abr;Risaralda;4;0;0;1;0
+28-abr;Risaralda;6;0;0;0;0
+29-abr;Risaralda;1;0;1;0;0
+20-mar;Santa Marta D.T. y C.;0;1;0;0;1
+23-mar;Santa Marta D.T. y C.;0;0;0;0;1
+25-mar;Santa Marta D.T. y C.;0;0;0;0;1
+27-mar;Santa Marta D.T. y C.;0;0;0;0;3
+31-mar;Santa Marta D.T. y C.;0;0;0;0;2
+01-abr;Santa Marta D.T. y C.;0;0;0;0;2
+08-abr;Santa Marta D.T. y C.;6;2;1;0;5
+09-abr;Santa Marta D.T. y C.;1;1;0;1;1
+10-abr;Santa Marta D.T. y C.;4;2;0;0;3
+11-abr;Santa Marta D.T. y C.;8;3;0;0;2
+12-abr;Santa Marta D.T. y C.;3;0;0;0;0
+13-abr;Santa Marta D.T. y C.;3;0;2;0;0
+15-abr;Santa Marta D.T. y C.;1;0;1;0;2
+16-abr;Santa Marta D.T. y C.;6;1;0;0;0
+17-abr;Santa Marta D.T. y C.;1;0;0;0;0
+20-abr;Santa Marta D.T. y C.;2;1;0;0;0
+21-abr;Santa Marta D.T. y C.;11;0;4;0;0
+22-abr;Santa Marta D.T. y C.;7;1;0;0;0
+23-abr;Santa Marta D.T. y C.;14;1;4;0;0
+24-abr;Santa Marta D.T. y C.;4;1;0;0;0
+25-abr;Santa Marta D.T. y C.;3;0;0;0;0
+26-abr;Santa Marta D.T. y C.;8;0;0;0;0
+27-abr;Santa Marta D.T. y C.;3;0;0;0;0
+28-abr;Santa Marta D.T. y C.;2;0;0;0;0
+29-abr;Santa Marta D.T. y C.;2;0;0;0;0
+15-mar;Santander;0;0;0;0;1
+16-mar;Santander;0;0;0;0;1
+19-mar;Santander;0;0;0;0;1
+23-mar;Santander;0;0;0;0;1
+29-mar;Santander;1;0;0;0;3
+31-mar;Santander;0;0;0;0;3
+01-abr;Santander;0;0;0;0;1
+06-abr;Santander;0;2;0;0;0
+09-abr;Santander;0;0;0;0;7
+11-abr;Santander;1;0;0;0;5
+12-abr;Santander;1;0;0;0;1
+14-abr;Santander;0;0;0;0;1
+16-abr;Santander;2;0;0;0;1
+21-abr;Santander;1;0;0;0;0
+22-abr;Santander;1;1;0;0;0
+23-abr;Santander;1;0;0;0;0
+25-abr;Santander;0;0;0;0;1
+26-abr;Santander;1;0;0;0;0
+28-abr;Santander;1;0;0;0;0
+29-mar;Sucre;0;0;0;0;1
+17-mar;Tolima;0;0;0;0;1
+18-mar;Tolima;0;0;0;0;1
+21-mar;Tolima;0;0;0;0;1
+22-mar;Tolima;0;0;0;0;1
+24-mar;Tolima;0;0;0;0;4
+25-mar;Tolima;0;0;0;0;1
+01-abr;Tolima;0;0;0;0;5
+03-abr;Tolima;1;0;0;0;0
+09-abr;Tolima;1;0;0;0;0
+10-abr;Tolima;2;1;0;0;2
+11-abr;Tolima;0;1;0;1;0
+13-abr;Tolima;2;0;0;0;0
+15-abr;Tolima;2;0;0;0;0
+16-abr;Tolima;1;0;0;0;0
+17-abr;Tolima;2;0;0;0;0
+19-abr;Tolima;2;0;0;0;0
+21-abr;Tolima;4;0;0;0;0
+22-abr;Tolima;4;0;0;0;0
+23-abr;Tolima;0;1;0;0;0
+25-abr;Tolima;1;0;0;0;0
+26-abr;Tolima;1;0;0;0;0
+27-abr;Tolima;11;0;0;1;0
+28-abr;Tolima;7;0;0;0;0
+29-abr;Tolima;4;0;0;0;0
+09-mar;Valle del Cauca;0;0;0;0;1
+13-mar;Valle del Cauca;1;0;0;0;1
+16-mar;Valle del Cauca;0;0;0;0;2
+17-mar;Valle del Cauca;1;0;0;0;7
+19-mar;Valle del Cauca;0;0;0;0;1
+20-mar;Valle del Cauca;1;0;0;0;0
+21-mar;Valle del Cauca;1;1;0;1;9
+22-mar;Valle del Cauca;1;0;0;0;4
+23-mar;Valle del Cauca;0;1;0;0;5
+24-mar;Valle del Cauca;3;0;1;0;25
+25-mar;Valle del Cauca;1;1;0;0;3
+26-mar;Valle del Cauca;0;0;0;0;2
+28-mar;Valle del Cauca;3;1;1;0;6
+29-mar;Valle del Cauca;5;1;0;0;2
+30-mar;Valle del Cauca;4;3;1;0;5
+31-mar;Valle del Cauca;4;0;0;2;5
+01-abr;Valle del Cauca;11;0;1;1;18
+02-abr;Valle del Cauca;1;0;1;1;0
+03-abr;Valle del Cauca;7;2;2;1;3
+04-abr;Valle del Cauca;7;2;0;1;4
+05-abr;Valle del Cauca;10;0;3;0;3
+06-abr;Valle del Cauca;2;2;1;1;6
+07-abr;Valle del Cauca;4;1;0;4;4
+08-abr;Valle del Cauca;58;5;4;2;20
+09-abr;Valle del Cauca;13;4;5;4;7
+10-abr;Valle del Cauca;45;5;4;3;14
+11-abr;Valle del Cauca;32;9;3;3;11
+12-abr;Valle del Cauca;4;0;0;1;4
+13-abr;Valle del Cauca;3;0;0;2;0
+14-abr;Valle del Cauca;9;1;1;0;3
+15-abr;Valle del Cauca;12;2;0;0;4
+16-abr;Valle del Cauca;17;3;2;1;2
+17-abr;Valle del Cauca;34;1;3;2;3
+18-abr;Valle del Cauca;15;1;3;1;0
+19-abr;Valle del Cauca;9;0;0;1;0
+20-abr;Valle del Cauca;40;3;5;0;0
+21-abr;Valle del Cauca;24;1;4;0;0
+22-abr;Valle del Cauca;24;0;3;0;0
+23-abr;Valle del Cauca;25;0;9;0;0
+24-abr;Valle del Cauca;17;0;4;0;0
+25-abr;Valle del Cauca;17;0;1;0;0
+26-abr;Valle del Cauca;20;0;3;1;0
+27-abr;Valle del Cauca;6;0;0;0;0
+28-abr;Valle del Cauca;27;1;4;1;0
+29-abr;Valle del Cauca;15;0;5;1;0
